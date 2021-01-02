@@ -1,6 +1,6 @@
 # pinid
 
-In the beginning of Terminator 2: Judgement Day, John Connor uses an Atari Portfolio to hack the PIN of a stolen credit card.
+In the beginning of Terminator 2: Judgement Day, John Connor uses an [Atari Portfolio](https://en.wikipedia.org/wiki/Atari_Portfolio) to hack the PIN of a stolen credit card.
 
 ![example](./docs/t2.gif)
 
