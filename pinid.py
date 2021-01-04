@@ -22,7 +22,6 @@ input("Strike a key when ready ...")
 
 print("\n\n12345678901234567890123457890123456780")
 
-pos = 0
 lines = 1
 
 length = 38
