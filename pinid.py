@@ -2,18 +2,20 @@
 import time
 import random
 
+delay = 0.025
+
 print("PPPPP   IIIIIII   N    N")
-time.sleep(0.025)
+time.sleep(delay)
 print("P   PP     I      NN   N IDENTIFICATION")
-time.sleep(0.025)
+time.sleep(delay)
 print("P   PP     I      N N  N")
-time.sleep(0.025)
+time.sleep(delay)
 print("PPPPP      I      N  N N   PROGRAM")
-time.sleep(0.025)
+time.sleep(delay)
 print("P          I      N   NN")
-time.sleep(0.025)
+time.sleep(delay)
 print("P       IIIIIII   N    N")
-time.sleep(0.025)
+time.sleep(delay)
 
 print('')
 input("Strike a key when ready ...")
@@ -29,7 +31,7 @@ while True:
     for i in range(0, length):
         print(random.randint(0,9), end='')
     print('')
-    time.sleep(0.025)
+    time.sleep(delay)
     lines += 1
     if (lines == 5):
         lines = 0
